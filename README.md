@@ -1,8 +1,6 @@
 # Hi, I'm Jiwon~
 
 <img lefte='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgmlwldnjs">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whgmlwldnjs)](https://solved.ac/whgmlwldnjs)
 
 # 🔥Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
