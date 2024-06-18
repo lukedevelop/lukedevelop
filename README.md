@@ -2,8 +2,10 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whgmlwldnjs)](https://solved.ac/whgmlwldnjs)
 
-# Resume
+# 👨‍💻Resume
+<a href="https://www.notion.so/luke-kim/">
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+</a> 
 
 # 🔥Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
