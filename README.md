@@ -3,7 +3,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whgmlwldnjs)](https://solved.ac/whgmlwldnjs)
 
 # Resume
-<img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white"/>
 
 # 🔥Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
